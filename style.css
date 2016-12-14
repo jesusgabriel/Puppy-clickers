@@ -1,0 +1,9 @@
+img{
+  width: 400px;
+  display: block;
+  margin: 0 auto;
+}
+h1, h2{
+  margin: 0 auto;
+  margin-left: 40rem;
+}
